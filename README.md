@@ -27,3 +27,5 @@ consumer.go: Implements the worker logic for SMTP communication.
 email.tmpl: The HTML/Text template for the email content.
 
 email.csv: Data source containing recipient names and email addresses.
+
+---
