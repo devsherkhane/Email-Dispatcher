@@ -28,4 +28,6 @@ main.go: Entry point that initializes channels, workers, and the producer.
 
 * email.csv: Data source containing recipient names and email addresses.
 
+  
+
 ---
