@@ -27,7 +27,7 @@ main.go: Entry point that initializes channels, workers, and the producer.
 * email.tmpl: The HTML/Text template for the email content.
 
 * email.csv: Data source containing recipient names and email addresses.
-
+  
   
 
 ---
