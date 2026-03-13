@@ -5,7 +5,7 @@ A high-performance, concurrent email dispatching utility written in Go. This too
 
 # Features
 
-  
+   
 * Producer-Consumer Architecture: Decouples file reading from email sending for maximum efficiency.
 
 * Concurrent Workers: Uses a configurable pool of workers to handle multiple emails simultaneously.
