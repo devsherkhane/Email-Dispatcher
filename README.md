@@ -15,7 +15,7 @@ A high-performance, concurrent email dispatching utility written in Go. This too
 * Wait Group Synchronization: Ensures the application only exits after every recipient has been processed.
 
 # Project Structure
- 
+  
 
 main.go: Entry point that initializes channels, workers, and the producer.
 
