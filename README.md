@@ -4,7 +4,7 @@
 A high-performance, concurrent email dispatching utility written in Go. This tool reads recipient information from a CSV file, populates a custom email template, and sends emails through an SMTP server using a pool of worker goroutines.
 
 # Features
-
+ 
     
 * Producer-Consumer Architecture: Decouples file reading from email sending for maximum efficiency.
 
